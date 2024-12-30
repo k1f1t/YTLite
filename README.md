@@ -1,6 +1,9 @@
+# DO NOT USE THIS REPO!!
+Don't use this repo to download YTLite it is used only to compile for me.   
+If you want to compile YTLite for you fork below repo and compile using github actions.    
+repo: dayanch96/YTLite    
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
-
 ## Screenshots
 <table>
    <tr>
